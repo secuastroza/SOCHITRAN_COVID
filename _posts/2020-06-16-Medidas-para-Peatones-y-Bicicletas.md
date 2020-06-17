@@ -21,10 +21,6 @@ La bicicleta es muy apta para viajes de menos de 7,5 KM, siendo incluso viable p
   - Una campaña de parte del ministerio para instruir a las personas a siempre caminar por la vereda de la derecha permitiría disminuir la probabilidad de contagio significativamente con un costo muy bajo.
 
   - Aumentar el espacio para los peatones es un elemento esencial en este contexto y que se puede hacer, al igual que en el caso de ciclistas, con opciones de diferentes costos.
-
-> 👍 Success
-> 
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
   
   - De ninguna manera se debe aumentar el espacio dedicado a ciclistas a costa del espacio dedicado a peatones.
 
