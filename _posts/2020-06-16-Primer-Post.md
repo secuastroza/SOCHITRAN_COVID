@@ -1,6 +1,6 @@
-1.  # Medidas para Peatones y Bicicletas
+ # Medidas para Peatones y Bicicletas
     
-    1.  ## ¿Por qué Promover Medidas para Peatones y Bicicletas?
+ ## ¿Por qué Promover Medidas para Peatones y Bicicletas?
 
 La caminata y la bicicleta son modos de transporte sustentables: no generan contaminación ambiental ni ruido, no necesitan fuentes energéticas externas, son económicos y generan baja congestión. Un aumento de la capacidad vial para peatones y usuarios de bicicleta puede habilitarse, de manera provisoria, con un costo muy bajo (solo conos y alguna demarcación y señalética). Esto puede servir como experiencias piloto, de tal modo que el en el mediano plazo se opte por intervenciones más costosas en los lugares que se han obtenido buenos resultados.
 
@@ -26,9 +26,9 @@ La bicicleta es muy apta para viajes de menos de 7,5 KM, siendo incluso viable p
 
   - Sentidos de circulación unidireccionales en supermercados.
     
-    3.  ## Medidas para Viajes en Bicicleta
+ ## Medidas para Viajes en Bicicleta
         
-        1.  ### Medidas durante la pandemia y para la vuelta a la normalidad
+### Medidas durante la pandemia y para la vuelta a la normalidad
 
   - Partir por zonas centrales de ciudades
 
