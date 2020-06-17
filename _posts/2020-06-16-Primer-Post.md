@@ -26,7 +26,8 @@ La bicicleta es muy apta para viajes de menos de 7,5 KM, siendo incluso viable p
 
   - Sentidos de circulación unidireccionales en supermercados.
     
- ## Medidas para Viajes en Bicicleta
+
+## Medidas para Viajes en Bicicleta
         
 ### Medidas durante la pandemia y para la vuelta a la normalidad
 
