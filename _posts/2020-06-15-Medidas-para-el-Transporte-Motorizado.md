@@ -1,7 +1,7 @@
 # Medidas para el Transporte Motorizado
 
   * [Medidas en Vigencia](#medidas-en-vigencia)
-  * [Medidas para el Transporte Público, Privado y Ferroviario](#medidas-para-el-transporte-público--privado-y-ferroviario)
+  * [Medidas para el Transporte Público, Privado y Ferroviario](#medidas-para-el-transporte-público-privado-y-ferroviario)
     + [¿Cómo potenciar el uso del transporte público y control del uso del auto?](#cómo-potenciar-el-uso-del-transporte-público-y-control-del-uso-del-auto)
     + [¿Qué pasa con el transporte de pasajeros ferroviario (suburbano e interregional)?](#qué-pasa-con-el-transporte-de-pasajeros-ferroviario-suburbano-e-interregional)
   * [Gestión de las Medidas de Transporte Motorizado](#gestión-de-las-medidas-de-transporte-motorizado)
