@@ -56,7 +56,7 @@ La bicicleta es una opción viable en el **corto plazo** pues se puede habilitar
 
 <details>
   <summary markdown="span">Sobre aceras: bidireccional, infraestructura, iluminación, semáforos (200 millones $/km)</summary>
-  This is the detailed text.
+  ![]({{site.baseurl}}/images/logosochitran.jpg "http://sochitran.cl")
 </details>
 
 | **Estándar**                                                                       | **Costo (millones $/km)** |
