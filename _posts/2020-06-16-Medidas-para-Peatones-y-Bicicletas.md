@@ -54,11 +54,6 @@ Una revisión internacional y nacional muestra que ya se están implementando di
 
 La bicicleta es una opción viable en el **corto plazo** pues se puede habilitar con un costo muy bajo (solo conos y alguna demarcación y señalética), de acuerdo a lo mostrado en el cuadro siguiente:
 
-<details>
-  <summary markdown="span">Sobre aceras: bidireccional, infraestructura, iluminación, semáforos (200 millones $/km)</summary>
-  ![]({{site.baseurl}}/images/logosochitran.jpg "http://sochitran.cl")
-</details>
-
 | **Estándar**                                                                       | **Costo (millones $/km)** |
 | ---------------------------------------------------------------------------------- | ------------------------- |
 | Sobre aceras (bidireccional, infraestructura, iluminación, semáforos)              | 200                       |
@@ -67,6 +62,12 @@ La bicicleta es una opción viable en el **corto plazo** pues se puede habilitar
 | Ciclovías en calzada (unidireccional, sin segregación, demarcación, sin semáforos) | 1                         |
 
 Fuente: <https://youtu.be/3YExdKkdLB8>
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/3YExdKkdLB8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 Su habilitación temporal, puede servir como experiencias piloto, de tal modo que el en el **mediano plazo** se opte por intervenciones más costosas en los lugares que se han obtenido buenos resultados.
 
