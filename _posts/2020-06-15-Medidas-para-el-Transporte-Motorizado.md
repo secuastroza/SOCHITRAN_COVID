@@ -23,6 +23,7 @@ En materia de transporte público la documentación revisada tiende a coincidir 
 También es sabido que el incremento del uso de automóvil crecerá producto de las ventajas de protección sanitarias que ofrece, por lo tanto, las medidas que se propongan para el uso del transporte público deberán apuntar a asegurar un marco sanitario mínimo que permita dar confianza de su uso. En este sentido, se identifican las siguientes medidas:
 
 - **Limitar la cantidad de pasajeros para permitir el distanciamiento físico:** Para priorizar el uso de transporte público para los usuarios que deban obligadamente desplazarse a sus lugares de trabajo, es fundamental que las personas que puedan trabajen desde sus hogares, como se explicó en la Sección 2.
+
 Complementariamente, se debieran mantener las medidas ya implementadas, como demarcar en el piso de paraderos la ubicación donde debieran esperar los usuarios, de tal forma que garantice la distancia requerida con el resto. 
 
 
@@ -52,5 +53,6 @@ Complementariamente, se debieran mantener las medidas ya implementadas, como dem
   -	Disminución de velocidad máxima de operación en sectores residencial o de actividad comercial.
   -	Aumento de dígitos para la restricción vehicular.
   -	En el mediano plazo, evaluar medidas como la tarificación vial por congestión dentro de polígonos saturados para incentivar modos sustentables o la aplicación de medidas alternativas como restricción con pase diario. La recaudación fiscal debiera invertirse en medidas que faciliten el transporte público y los modos caminata y bicicleta. Se requieren modificaciones legislativas, al menos, en materias de tránsito y de recaudación fiscal.
+
 El objetivo es que los flujos vehiculares no disminuyan la capacidad vial a modos de transporte más sustentables que de acuerdo con lo que se comenta, requerirán de una mayor oferta.
 
