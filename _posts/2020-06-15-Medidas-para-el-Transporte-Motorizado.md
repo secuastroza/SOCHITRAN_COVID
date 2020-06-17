@@ -56,3 +56,30 @@ También es sabido que el incremento del uso de automóvil crecerá producto de 
 
   El objetivo es que los flujos vehiculares no disminuyan la capacidad vial a modos de transporte más sustentables que de acuerdo con lo que se comenta, requerirán de una mayor oferta.
 
+###	¿Qué pasa con el transporte de pasajeros ferroviario (suburbano e interregional)?
+
+De acuerdo a la experiencia internacional, el transporte de pasajeros ferroviario (suburbano) requiere operar con recomendaciones y condiciones similares a las aplicadas en el transporte mayor de superficie, a saber:
+
+- **Fomento al respecto de la distancia social:** Para el caso de transporte tipo metro, se debe asegurar que al interior de las instalaciones la densidad de pasajeros asegure la distancia social recomendada.
+  -	Activa gestión del ingreso de los pasajeros a las estaciones. En este sentido, se pueden generar áreas de espera en las mesaninas, previo al paso de torniquetes, así como en las escaleras hacia el espacio público.
+  -	La gestión anterior deberá ser coordinada en tiempo real considerando el “grado de hacinamiento” tanto de los andenes como de los propios trenes.
+  -	Demarcar en las áreas de espera la distribución que los pasajeros deben adoptar, de manera de respetar la distancia social mínima. Esto tanto para las mesaninas, las escaleras y andenes.
+  -	Igualmente, al interior de cada tren, se deben destacar y representar el concepto de distanciamiento social, tanto en pasajeros que viajan sentados como de pie.
+
+- **Diseño de circuitos de circulación:** Si bien esta medida se enmarca dentro de la política de distanciamiento social, la complejidad que esta puede requerir amerita un tratamiento particular. 
+  -	El diseño de las zonas de esperas en los andenes deberá considerar canales de circulación separados entre los pasajeros de descienden de aquellos que abordan. En líneas y estaciones en donde el punto de detención de los trenes es conocida y fija, es posible delimitar las áreas con sistemas de postes y separadores. 
+  -	Este diseño debe continuar la circulación de pasajeros desde y hasta el exterior de las estaciones. En la medida que la geometría lo permita, se deberán generar sectores de acceso y egreso segregados.
+
+- **Aumento de las medidas de sanitización y control sanitario**
+  -	Al ingreso de las estaciones se deberá contar con puntos aleatorios de control de temperatura. Esto debe realizarse tanto para pasajeros como para trabajadores de las empresas.
+  -	Sistemas de sanitización express periódicos de las propias estaciones y áreas comunes, así como de los carros y trenes al término de cada recorrido.
+
+- **Gestión de espacios reducidos comunes, como ascensores:** Para el caso de espacios reducidos necesarios, se deberá instalar la señalética correspondiente para mantener una mínima densidad en estos espacios. Además de reforzar en estos puntos los ciclos de desinfección.
+
+- **Con todo lo anterior, se deberá tener siempre presente a la población con Discapacidad, en especial a lo relacionado con asegurar los principios de accesibilidad y vida independiente.** En caso que estos no puedan ser cumplidos cabalmente, se podrán realizar ajustes razonables, pero siempre respetando el espíritu de la ley.
+
+- **Gestión de la demanda a través de la tarifa.** Es posible estudiar variaciones más enérgicas de la tarifa, orientadas a trasladar demanda en los horarios más cargados a los que mantengan capacidad. 
+
+- **Plan comunicacional:** Todas las medidas adoptadas deberán ser publicitadas permanentemente para conocimiento y colaboración de la ciudadanía. Esto incluye además reforzar los canales de atención remota de pasajeros.
+
+
