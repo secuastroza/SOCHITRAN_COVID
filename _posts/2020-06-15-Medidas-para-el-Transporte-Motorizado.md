@@ -22,6 +22,40 @@ En materia de transporte público la documentación revisada tiende a coincidir 
 
 También es sabido que el incremento del uso de automóvil crecerá producto de las ventajas de protección sanitarias que ofrece, por lo tanto, las medidas que se propongan para el uso del transporte público deberán apuntar a asegurar un marco sanitario mínimo que permita dar confianza de su uso. En este sentido, se identifican las siguientes medidas:
 
+- **Limitar la cantidad de pasajeros para permitir el distanciamiento físico:** Para priorizar el uso de transporte público para los usuarios que deban obligadamente desplazarse a sus lugares de trabajo, es fundamental que las personas que puedan trabajen desde sus hogares, como se explicó en la Sección 2.
+Complementariamente, se debieran mantener las medidas ya implementadas, como demarcar en el piso de paraderos la ubicación donde debieran esperar los usuarios, de tal forma que garantice la distancia requerida con el resto. 
+
+
+
+-	**Medidas sanitarias que permitan un uso seguro del sistema de transporte:** La vuelta a la normalidad requerirá de todas maneras seguir con las medidas ya conocidas de uso de mascarilla, control de temperatura, aseo de manos y otras. Para este efecto, el transporte público deberá contar con este tipo de facilidades que ayude a la sanidad de sus usuarios. De esta forma, en puntos estratégicos del sistema de transporte se debieran considerar:
+  -	Limpiadores de pies con desinfectantes en acceso a vehículos
+  -	Desinfección periódica de buses
+  -	Termómetros que supervisen la temperatura a un flujo de personas
+  -	Aislar al conductor del bus
+  -	Uso de puertas en solo sentido (subida y bajada)
+  -	Espacios reservados para adultos mayores en estaciones, buses y vagones de metro
+
+- **Medidas que prioricen los modos de transporte más sustentables:** En consideración a la necesidad que surgirá de priorizar los modos de transporte más sustentables, como lo son la caminata, bicicleta y transporte público, será necesario considerar algunas medidas que apunten en esta dirección, algunas de ellas son:
+  -	Agregar servicios de buses paralelos a los de Metro que aumenten la oferta de un corredor y así baje el hacinamiento.
+  -	Activar temporalmente nuevas pistas exclusivas para el transporte público durante los periodos punta en días laborales, revisando los decretos respectivos de cada Seremi MTT  y a partir de la recuperación de pistas destinadas a estacionamiento de superficie. Al mejorar su velocidad de operación, un mismo bus podría circular más veces por la misma ruta en un día (frecuencia) disminuyendo el hacinamiento durante el viaje. Priorizando vías que tengan continuidad ininterrumpida a lo largo de la ciudad y que se encuentren priorizadas dentro de Planes Maestros de Transporte ya formulados. 
+  -	Evaluar en qué pistas de uso exclusivo para buses es pertinente prohibir expresamente la circulación de taxis4 y durante qué periodos. Se propone en principio, al menos para la Región Metropolitana.
+  -	Fomentar la equidad interregional en el nivel de servicio de su transporte público. Se propone el monitoreo y definición de estándares, en todas las áreas urbanas del país, de regularidad y frecuencia del sistema. 
+  -	Se recomienda la aprobación del Proyecto de Ley CATI, Boletín 9252-15, para reforzar la fiscalización en Pistas Solo Bus mediante cámaras. Se encuentra en segundo trámite en el Senado.
+  -	Aumentar la cantidad de paraderos con pago extra vehicular.
+  -	Incluir al interior de buses información para la realización de actividades sin salir de casa (sitios web de trámites en línea, pago de cuentas en línea, etc.).
+
+- **Desincentivo del uso del automóvil:** La disminución del uso de automóvil será sin duda un tema difícil de abordar, sin embargo, será necesario considerar diversas medidas que permitan al menos moderar su uso:
+  -	Disminución de la oferta de estacionamiento o aumento de las tarifas en sectores de alta atracción de viajes.
+  -	Recuperación de pistas de circulación destinadas a estacionamientos de superficie para ampliación de veredas e instalación de pistas de circulación de modos no motorizados.
+  -	Determinación de sectores con acceso sólo a residentes.
+  -	Disminución de velocidad máxima de operación en sectores residencial o de actividad comercial.
+  -	Aumento de dígitos para la restricción vehicular.
+  -	En el mediano plazo, evaluar medidas como la tarificación vial por congestión dentro de polígonos saturados para incentivar modos sustentables o la aplicación de medidas alternativas como restricción con pase diario. La recaudación fiscal debiera invertirse en medidas que faciliten el transporte público y los modos caminata y bicicleta. Se requieren modificaciones legislativas, al menos, en materias de tránsito y de recaudación fiscal.
+El objetivo es que los flujos vehiculares no disminuyan la capacidad vial a modos de transporte más sustentables que de acuerdo con lo que se comenta, requerirán de una mayor oferta.
+
+
+
+
 
 
 
