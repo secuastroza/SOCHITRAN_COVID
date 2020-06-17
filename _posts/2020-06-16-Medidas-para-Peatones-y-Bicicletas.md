@@ -44,6 +44,9 @@ Una revisión internacional y nacional muestra que ya se están implementando di
 -	Ampliar las zonas con velocidad máxima a 30 km/h y aplicar medidas de tráfico calmado para la reducción de la velocidad de los vehículos. Así mismo, procurar una fiscalización más profunda de los límites de velocidad ya existentes
 -	Utilización de espacios de estacionamientos para peatones y otras actividades urbanas, tales como bares y restoranes
 -	De ninguna manera se debe aumentar el espacio dedicado a ciclistas a costa del espacio dedicado a peatones.
+
+{% include alert.html text="You can include alert boxes" %}
+
 -	Incentivos para programas comunitarios de caminata a la escuela
 -	Medidas de urbanismo táctico que promuevan la caminata, relacionadas al mejoramiento del entorno urbano y su seguridad
 -	Esquema participativo de las medidas, a través de plataformas en donde los ciudadanos puedan directamente proponer mejoras para su experiencia de caminata
