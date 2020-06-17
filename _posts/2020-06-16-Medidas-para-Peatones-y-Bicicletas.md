@@ -91,7 +91,7 @@ Su habilitación temporal, puede servir como experiencias piloto, de tal modo qu
 
 	- De Servicio: 30 a 40 Km/hr
 	
- 	- Colectoras: 40 a 50 Km/hr
+	- Colectoras: 40 a 50 Km/hr 
 	
 	- Troncales: si bien en el caso de estas vías se permite velocidad mayores, se recomienda que se adopte el valor de 50 Km/hr establecido por defecto en la Ley de Tránsito. 
 	
