@@ -29,12 +29,12 @@ También es sabido que el incremento del uso de automóvil crecerá producto de 
 
 
 -	**Medidas sanitarias que permitan un uso seguro del sistema de transporte:** La vuelta a la normalidad requerirá de todas maneras seguir con las medidas ya conocidas de uso de mascarilla, control de temperatura, aseo de manos y otras. Para este efecto, el transporte público deberá contar con este tipo de facilidades que ayude a la sanidad de sus usuarios. De esta forma, en puntos estratégicos del sistema de transporte se debieran considerar:
--	Limpiadores de pies con desinfectantes en acceso a vehículos
--	Desinfección periódica de buses
--	Termómetros que supervisen la temperatura a un flujo de personas
--	Aislar al conductor del bus
--	Uso de puertas en solo sentido (subida y bajada)
--	Espacios reservados para adultos mayores en estaciones, buses y vagones de metro
+    -	Limpiadores de pies con desinfectantes en acceso a vehículos
+    -	Desinfección periódica de buses
+    -	Termómetros que supervisen la temperatura a un flujo de personas
+    -	Aislar al conductor del bus
+    -	Uso de puertas en solo sentido (subida y bajada)
+    -	Espacios reservados para adultos mayores en estaciones, buses y vagones de metro
 
 
 - **Medidas que prioricen los modos de transporte más sustentables:** En consideración a la necesidad que surgirá de priorizar los modos de transporte más sustentables, como lo son la caminata, bicicleta y transporte público, será necesario considerar algunas medidas que apunten en esta dirección, algunas de ellas son:
