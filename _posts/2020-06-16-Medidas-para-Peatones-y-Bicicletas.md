@@ -1,7 +1,10 @@
  # Medidas para Peatones y Bicicletas
 
-  * [¿Por qué Promover Medidas para Peatones y Bicicletas?](#-por-qué-promover-medidas-para-peatones-y-bicicletas-)
+  * [¿Por qué Promover Medidas para Peatones y Bicicletas?](#por-qué-promover-medidas-para-peatones-y-bicicletas)
   * [Medidas para Viajes Peatonales](#medidas-para-viajes-peatonales)
+    + [Medidas en intersecciones](#medidas-en-intersecciones)
+    + [Veredas](#veredas)
+    + [Otras medidas](#otras-medidas)
   * [Medidas para Viajes en Bicicleta](#medidas-para-viajes-en-bicicleta)
     + [Medidas durante la pandemia y para la vuelta a la normalidad](#medidas-durante-la-pandemia-y-para-la-vuelta-a-la-normalidad)
     + [Ejemplos prácticos](#ejemplos-prácticos)
