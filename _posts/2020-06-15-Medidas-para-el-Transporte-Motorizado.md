@@ -32,6 +32,7 @@ En materia de transporte público la documentación revisada tiende a coincidir 
 
 También es sabido que el incremento del uso de automóvil crecerá producto de las ventajas de protección sanitarias que ofrece, por lo tanto, las medidas que se propongan para el uso del transporte público deberán apuntar a asegurar un marco sanitario mínimo que permita dar confianza de su uso. En este sentido, se identifican las siguientes medidas:
 
+
 - **Limitar la cantidad de pasajeros para permitir el distanciamiento físico:** Para priorizar el uso de transporte público para los usuarios que deban obligadamente desplazarse a sus lugares de trabajo, es fundamental que las personas que puedan trabajen desde sus hogares, como se explicó en la Sección 2.
 
   Complementariamente, se debieran mantener las medidas ya implementadas, como demarcar en el piso de paraderos la ubicación donde debieran esperar los usuarios, de tal forma que garantice la distancia requerida con el resto. 
@@ -56,6 +57,7 @@ También es sabido que el incremento del uso de automóvil crecerá producto de 
   -	Aumentar la cantidad de paraderos con pago extra vehicular.
   -	Incluir al interior de buses información para la realización de actividades sin salir de casa (sitios web de trámites en línea, pago de cuentas en línea, etc.).
 
+
 - **Desincentivo del uso del automóvil:** La disminución del uso de automóvil será sin duda un tema difícil de abordar, sin embargo, será necesario considerar diversas medidas que permitan al menos moderar su uso:
   -	Disminución de la oferta de estacionamiento o aumento de las tarifas en sectores de alta atracción de viajes.
   -	Recuperación de pistas de circulación destinadas a estacionamientos de superficie para ampliación de veredas e instalación de pistas de circulación de modos no motorizados.
@@ -70,25 +72,32 @@ También es sabido que el incremento del uso de automóvil crecerá producto de 
 
 De acuerdo a la experiencia internacional, el transporte de pasajeros ferroviario (suburbano) requiere operar con recomendaciones y condiciones similares a las aplicadas en el transporte mayor de superficie, a saber:
 
+
 - **Fomento al respecto de la distancia social:** Para el caso de transporte tipo metro, se debe asegurar que al interior de las instalaciones la densidad de pasajeros asegure la distancia social recomendada.
   -	Activa gestión del ingreso de los pasajeros a las estaciones. En este sentido, se pueden generar áreas de espera en las mesaninas, previo al paso de torniquetes, así como en las escaleras hacia el espacio público.
   -	La gestión anterior deberá ser coordinada en tiempo real considerando el “grado de hacinamiento” tanto de los andenes como de los propios trenes.
   -	Demarcar en las áreas de espera la distribución que los pasajeros deben adoptar, de manera de respetar la distancia social mínima. Esto tanto para las mesaninas, las escaleras y andenes.
   -	Igualmente, al interior de cada tren, se deben destacar y representar el concepto de distanciamiento social, tanto en pasajeros que viajan sentados como de pie.
 
+
 - **Diseño de circuitos de circulación:** Si bien esta medida se enmarca dentro de la política de distanciamiento social, la complejidad que esta puede requerir amerita un tratamiento particular. 
   -	El diseño de las zonas de esperas en los andenes deberá considerar canales de circulación separados entre los pasajeros de descienden de aquellos que abordan. En líneas y estaciones en donde el punto de detención de los trenes es conocida y fija, es posible delimitar las áreas con sistemas de postes y separadores. 
   -	Este diseño debe continuar la circulación de pasajeros desde y hasta el exterior de las estaciones. En la medida que la geometría lo permita, se deberán generar sectores de acceso y egreso segregados.
+
 
 - **Aumento de las medidas de sanitización y control sanitario**
   -	Al ingreso de las estaciones se deberá contar con puntos aleatorios de control de temperatura. Esto debe realizarse tanto para pasajeros como para trabajadores de las empresas.
   -	Sistemas de sanitización express periódicos de las propias estaciones y áreas comunes, así como de los carros y trenes al término de cada recorrido.
 
+
 - **Gestión de espacios reducidos comunes, como ascensores:** Para el caso de espacios reducidos necesarios, se deberá instalar la señalética correspondiente para mantener una mínima densidad en estos espacios. Además de reforzar en estos puntos los ciclos de desinfección.
+
 
 - **Con todo lo anterior, se deberá tener siempre presente a la población con Discapacidad, en especial a lo relacionado con asegurar los principios de accesibilidad y vida independiente.** En caso que estos no puedan ser cumplidos cabalmente, se podrán realizar ajustes razonables, pero siempre respetando el espíritu de la ley.
 
+
 - **Gestión de la demanda a través de la tarifa.** Es posible estudiar variaciones más enérgicas de la tarifa, orientadas a trasladar demanda en los horarios más cargados a los que mantengan capacidad. 
+
 
 - **Plan comunicacional:** Todas las medidas adoptadas deberán ser publicitadas permanentemente para conocimiento y colaboración de la ciudadanía. Esto incluye además reforzar los canales de atención remota de pasajeros.
 
