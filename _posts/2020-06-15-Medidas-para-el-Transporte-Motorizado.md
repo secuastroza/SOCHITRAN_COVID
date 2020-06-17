@@ -82,4 +82,27 @@ De acuerdo a la experiencia internacional, el transporte de pasajeros ferroviari
 
 - **Plan comunicacional:** Todas las medidas adoptadas deberán ser publicitadas permanentemente para conocimiento y colaboración de la ciudadanía. Esto incluye además reforzar los canales de atención remota de pasajeros.
 
+##	Gestión de las Medidas de Transporte Motorizado
+
+###	¿Quién se debiera encargar de que las medidas propuestas se materialicen?
+
+Una vez definidas las medidas y decidida su ejecución, queda por delante la implementación de ellas, materia que debería estar en mano del MTT, sus SEREMI o sus unidades técnicas. Sin embargo, estamos hablando de medidas que se debieran implementar a lo largo del país y con la rapidez que amerita la situación, de tal forma que su ejecución esté implementada al momento que realmente se requiera. La pregunta que surge es: ¿es factible que estas medidas sean ejecutadas en estas condiciones?
+
+El MTT ha pasado por situaciones de emergencia, pero claramente a una escala menor. Estamos hablando de medidas que se deben implementar en una gran cantidad de ciudades del país y en forma prácticamente simultánea. En Santiago se encuentran concentradas las capacidades y está en mejores condiciones para enfrentar la situación, pero en regiones la situación no es la misma, razón por la cual es de vital importancia que se destinen los recursos y se actúe con prontitud frente a esta emergencia.
+
+En este sentido, sería razonable que se cree una unidad de trabajo especial de ámbito nacional que pueda preocuparse de la ejecución de las medidas y preparen el escenario para lo que viene.
+
+###	¿Qué medidas administrativas se debieran considerar para garantizar una pronta ejecución de ellas?
+
+Las medidas que se requerirán implementar estarán relacionadas con ejecución de obras menores, de ámbito operacional y de fiscalización, entre otras. Las que resultarán más lentas de ejecutar, corresponden a las que incluyen ejecución de obras, dado que el MTT no tiene competencia en ello y requiere de una alianza con los SERVIU regionales. Pero no será suficiente esta alianza, si no se cuenta con las facilidades administrativas propias de la emergencia.
+
+Sin lo anterior, será muy difícil llegar a contar con medidas como habilitar ciclovías o pistas exclusivas para buses.
+
+###	¿Qué rol juegan los privados en la gestión de las medidas?
+
+Los privados pueden ser de mucha ayuda en la implementación de medidas, considerando que los mall, supermercados, universidades y colegios, también debieran estar interesados en mejorar las condiciones de accesibilidad en lo que podría llamarse la última milla.
+
+En este sentido, la unidad de trabajo que se destine a este efecto debería gestionar con los privados diversas medidas que los involucren a ellos también. Por ejemplo, habilitar zonas de paradas y de espera de buses en estacionamientos, con la capacidad suficiente para cuidar que se cumplan las medidas sanitarias.
+
+
 
