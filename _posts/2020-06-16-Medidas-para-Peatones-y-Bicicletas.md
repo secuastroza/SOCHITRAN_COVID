@@ -22,7 +22,7 @@ La bicicleta es muy apta para viajes de menos de 7,5 KM, siendo incluso viable p
 
   - Aumentar el espacio para los peatones es un elemento esencial en este contexto y que se puede hacer, al igual que en el caso de ciclistas, con opciones de diferentes costos.
 
-  - De ninguna manera se debe aumentar el espacio dedicado a ciclistas a costa del espacio dedicado a peatones.
+  - > Warning: De ninguna manera se debe aumentar el espacio dedicado a ciclistas a costa del espacio dedicado a peatones.
 
   - Ampliación de aceras en zonas alta demanda peatonal, con medidas de Urbanismo Táctico
 
