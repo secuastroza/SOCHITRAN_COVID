@@ -35,6 +35,7 @@ Complementariamente, se debieran mantener las medidas ya implementadas, como dem
   -	Uso de puertas en solo sentido (subida y bajada)
   -	Espacios reservados para adultos mayores en estaciones, buses y vagones de metro
 
+
 - **Medidas que prioricen los modos de transporte más sustentables:** En consideración a la necesidad que surgirá de priorizar los modos de transporte más sustentables, como lo son la caminata, bicicleta y transporte público, será necesario considerar algunas medidas que apunten en esta dirección, algunas de ellas son:
   -	Agregar servicios de buses paralelos a los de Metro que aumenten la oferta de un corredor y así baje el hacinamiento.
   -	Activar temporalmente nuevas pistas exclusivas para el transporte público durante los periodos punta en días laborales, revisando los decretos respectivos de cada Seremi MTT  y a partir de la recuperación de pistas destinadas a estacionamiento de superficie. Al mejorar su velocidad de operación, un mismo bus podría circular más veces por la misma ruta en un día (frecuencia) disminuyendo el hacinamiento durante el viaje. Priorizando vías que tengan continuidad ininterrumpida a lo largo de la ciudad y que se encuentren priorizadas dentro de Planes Maestros de Transporte ya formulados. 
@@ -52,10 +53,4 @@ Complementariamente, se debieran mantener las medidas ya implementadas, como dem
   -	Aumento de dígitos para la restricción vehicular.
   -	En el mediano plazo, evaluar medidas como la tarificación vial por congestión dentro de polígonos saturados para incentivar modos sustentables o la aplicación de medidas alternativas como restricción con pase diario. La recaudación fiscal debiera invertirse en medidas que faciliten el transporte público y los modos caminata y bicicleta. Se requieren modificaciones legislativas, al menos, en materias de tránsito y de recaudación fiscal.
 El objetivo es que los flujos vehiculares no disminuyan la capacidad vial a modos de transporte más sustentables que de acuerdo con lo que se comenta, requerirán de una mayor oferta.
-
-
-
-
-
-
 
