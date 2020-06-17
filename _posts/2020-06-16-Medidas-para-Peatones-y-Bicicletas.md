@@ -54,8 +54,6 @@ Una revisión internacional y nacional muestra que ya se están implementando di
 
 La bicicleta es una opción viable en el **corto plazo** pues se puede habilitar con un costo muy bajo (solo conos y alguna demarcación y señalética), de acuerdo a lo mostrado en el cuadro siguiente:
 
-![]({{site.baseurl}}/images/tabla.png "http://sochitran.cl")
-
 | **Estándar**                                                                       | **Costo (millones $/km)** |
 | ---------------------------------------------------------------------------------- | ------------------------- |
 | Sobre aceras (bidireccional, infraestructura, iluminación, semáforos)              | 200                       |
@@ -75,18 +73,25 @@ Su habilitación temporal, puede servir como experiencias piloto, de tal modo qu
 
 ### Medidas de corto plazo
 
-•	Las intervenciones temporales debieran hacerse inicialmente, de acuerdo a lo definido por los Planes Maestros de Ciclorutas. Ello, sin perjuicio de que se implementen otras que surjan a partir de los problemas que enfrentan actualmente los usuarios de transporte público.
-•	Asimismo, cabe mencionar que hay ciudades que aun no cuentan con Planes Maestros de Ciclorutas, en las que, sin embargo. hay algunas ciclovías construidas, por ejemplo, como parte de proyectos e Infraestructura Vial o de iniciativas municipales. En tales casos, urge genera ciclovías complementarias que logren conformar una red conexa.
-•	Como primera prioridad, se recomienda implementar facilidades para bicicletas en las zonas céntricas de las ciudades chilenas. Para ello, se propone que, durante la Fase crítica de la pandemia, se restringa la velocidad de las calles a 30 Km/hr, es decir como Zomas 30, de tal modo que el espacio lo compartan los vehículos motorizados con los ciclistas. Esto es consistente con todos los documentos citados en 5.3.2., para el caso de las calles locales.
-•	En forma complementaria, en tales zonas céntricas se debe explorar la posibilidad de suprimir los estacionamientos sobre la calzada, para incrementar el ancho disponible para la circulación de los peatones. No obstante, ello tiene la dificultad, de que posiblemente haya parquimetritos concesionados.
-•	Para el caso de calles con Transporte Público en Zonas Céntrica, debiera habilitarse pistas exclusivas, de acuerdo a lo señalado en el punto 3 de este documento. En tales casos, los ciclistas debieran optar preferentemente por las calles tipo Zona 30 ya definidas. En los casos que ello no sea viable, deben hacerlo sobre la calzada izquierda compartida con los vehículos motorizados, tal como lo señala la Ley de Tránsito.
-•	Para ejes de la Red Vial Estructurante, ya sean radiales o tipo anillos, ubicados en el resto de la ciudad, se recomienda plantear ciclovías unidireccionales, en el mismo sentido de tránsito de los vehículos motorizados y en su borde derecho. Dependiendo de las características físicas como el  número de pistas y los volúmenes de tráfico, se puede proponer que la pista derecha sea exclusiva para ciclistas, respetando los criterio del documento 07, en las paradas de buses.
-•	De no ser viable la habilitación de pistas temporales exclusivas para ciclistas, se recomienda limitar la velocidad de pista derecha a 30 Km/hr, para que puedan circular bicicletas, buses y autos. 
-•	Para ambas situaciones mencionadas en los dos párrafos anteriores, las restantes pistas deben respetar los rangos de velocidad establecidos en el REDEVU y OGUC, que son las siguientes:
-o	De Servicio: 30 a 40 Km/hr
-o	Colectoras: 40 a 50 Km/hr
-o	Troncales: si bien en el caso de estas vías se permite velocidad mayores, se recomienda que se adopte el valor de 50 Km/hr establecido por defecto en la Ley de Tránsito. 
-•	Ello, según la Vialidad Estructurante definida en la Ordenanza y Planos de los  establezca en PRC de cada ciudad o comuna.
+-	Las intervenciones temporales debieran hacerse inicialmente, de acuerdo a lo definido por los Planes Maestros de Ciclorutas. Ello, sin perjuicio de que se implementen otras que surjan a partir de los problemas que enfrentan actualmente los usuarios de transporte público.
+
+- Asimismo, cabe mencionar que hay ciudades que aun no cuentan con Planes Maestros de Ciclorutas, en las que, sin embargo. hay algunas ciclovías construidas, por ejemplo, como parte de proyectos e Infraestructura Vial o de iniciativas municipales. En tales casos, urge genera ciclovías complementarias que logren conformar una red conexa.
+
+-	Como primera prioridad, se recomienda implementar facilidades para bicicletas en las zonas céntricas de las ciudades chilenas. Para ello, se propone que, durante la Fase crítica de la pandemia, se restringa la velocidad de las calles a 30 Km/hr, es decir como Zonas 30, de tal modo que el espacio lo compartan los vehículos motorizados con los ciclistas. Esto es consistente con todos los documentos citados en 5.3.2., para el caso de las calles locales.
+
+-	En forma complementaria, en tales zonas céntricas se debe explorar la posibilidad de suprimir los estacionamientos sobre la calzada, para incrementar el ancho disponible para la circulación de los peatones. No obstante, ello tiene la dificultad, de que posiblemente haya parquimetritos concesionados.
+
+-	Para el caso de calles con Transporte Público en Zonas Céntrica, debiera habilitarse pistas exclusivas, de acuerdo a lo señalado en el punto 3 de este documento. En tales casos, los ciclistas debieran optar preferentemente por las calles tipo Zona 30 ya definidas. En los casos que ello no sea viable, deben hacerlo sobre la calzada izquierda compartida con los vehículos motorizados, tal como lo señala la Ley de Tránsito.
+
+- Para ejes de la Red Vial Estructurante, ya sean radiales o tipo anillos, ubicados en el resto de la ciudad, se recomienda plantear ciclovías unidireccionales, en el mismo sentido de tránsito de los vehículos motorizados y en su borde derecho. Dependiendo de las características físicas como el  número de pistas y los volúmenes de tráfico, se puede proponer que la pista derecha sea exclusiva para ciclistas, respetando los criterio del documento 07, en las paradas de buses.
+
+-	De no ser viable la habilitación de pistas temporales exclusivas para ciclistas, se recomienda limitar la velocidad de pista derecha a 30 Km/hr, para que puedan circular bicicletas, buses y autos. 
+
+-	Para ambas situaciones mencionadas en los dos párrafos anteriores, las restantes pistas deben respetar los rangos de velocidad establecidos en el REDEVU y OGUC, que son las siguientes:
+  -	De Servicio: 30 a 40 Km/hr
+  -	Colectoras: 40 a 50 Km/hr
+  -	Troncales: si bien en el caso de estas vías se permite velocidad mayores, se recomienda que se adopte el valor de 50 Km/hr establecido por defecto en la Ley de Tránsito. 
+	 (Según la Vialidad Estructurante definida en la Ordenanza y Planos de los  establezca en PRC de cada ciudad o comuna).
 
 
 ### Ejemplos prácticos
