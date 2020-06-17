@@ -57,6 +57,7 @@ Presupuestos Referenciales para Implementación de Ciclovías
 | Ciclovías en calzada (bidireccional segregada, sin obras civiles, con semáforos)   | 25                        |
 | Ciclovías en calzada (unidireccional segregada, sin obras civiles, sin semáforos)  | 10                        |
 | Ciclovías en calzada (unidireccional, sin segregación, demarcación, sin semáforos) | 1                         |
+|<img width=500/>|<img width=100/>|
 
 Fuente: <https://youtu.be/3YExdKkdLB8>
 
