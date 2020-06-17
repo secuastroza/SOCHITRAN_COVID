@@ -54,6 +54,8 @@ Una revisión internacional y nacional muestra que ya se están implementando di
 
 La bicicleta es una opción viable en el **corto plazo** pues se puede habilitar con un costo muy bajo (solo conos y alguna demarcación y señalética), de acuerdo a lo mostrado en el cuadro siguiente:
 
+![]({{site.baseurl}}/images/tabla.jpg "http://sochitran.cl")
+
 | **Estándar**                                                                       | **Costo (millones $/km)** |
 | ---------------------------------------------------------------------------------- | ------------------------- |
 | Sobre aceras (bidireccional, infraestructura, iluminación, semáforos)              | 200                       |
