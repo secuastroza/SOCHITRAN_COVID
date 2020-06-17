@@ -18,24 +18,33 @@ La bicicleta es muy apta para viajes de menos de 7,5 KM, siendo incluso viable p
 
 ## Medidas para Viajes Peatonales
 
-  - Una campaña de parte del ministerio para instruir a las personas a siempre caminar por la vereda de la derecha permitiría disminuir la probabilidad de contagio significativamente con un costo muy bajo.
+Una revisión internacional y nacional muestra que ya se están implementando diversas medidas para tanto para facilitar el distanciamiento espacial entre peatones, como para incentivar la caminata como modo de desplazamiento en distancias cortas, o modo de acceso y egreso a otros.
 
-  - Aumentar el espacio para los peatones es un elemento esencial en este contexto y que se puede hacer, al igual que en el caso de ciclistas, con opciones de diferentes costos.
-  
-  - De ninguna manera se debe aumentar el espacio dedicado a ciclistas a costa del espacio dedicado a peatones.
-  
-  <p class="callout danger">De ninguna manera se debe aumentar el espacio dedicado a ciclistas a costa del espacio dedicado a peatones.</p>
+### Medidas en intersecciones
+-	Cambios en la semaforización, con el objetivo de disminuir los tiempos de espera en las intersecciones, disminuyendo la prioridad que actualmente tienen los modos motorizados. De manera temporal, esto puede implicar el involucramiento de apoyo de personas para estos efectos
+-	Pasos de peatones semaforizados de vías principales con señales orientativas del sentido de la caminata para los peatones para cruzar siempre por la derecha ([ejemplo de Sevilla](https://www.sevilla.org/actualidad/coronavirus-covid19/coronavirus-covid-19/novedades-desescalada/movilidad/plan-de-ampliacion-de-espacios-peatonales)).
+-	Señalización para pintar los sentidos para cruzar en los pasos de cebra, para evitar el cruzamiento de las personas 
 
-  - Ampliación de aceras en zonas alta demanda peatonal, con medidas de Urbanismo Táctico
+### Veredas
+-	Una campaña de parte del ministerio para instruir a las personas a siempre caminar por la vereda de la derecha permitiría disminuir la probabilidad de contagio significativamente con un costo muy bajo
+-	Ensanchamiento de veredas, utilizando la pista de automóviles o de estacionamientos adyacente
+-	Peatonalización de vías en zonas de alto tránsito (similar al caso de [Rancagua](http://www.intendenciabohiggins.gov.cl/noticias/covid-19-autoridad-adopta-medida-del-cierre-de-calles-en-el-centro-de-rancagua/) y [Chillán](http://www.ladiscusion.cl/implementan-vias-exclusivas-para-peatones-y-transporte-en-chillan/))
+-	Aumento del espacio público para actividades de primera necesidad, como por ejemplo ferias libres
+-	Mejoramiento de infraestructura de paraderos de transporte público, que mejore el espaciamiento entre personas y comodidad en la espera
+-	Ordenamiento del flujo de peatones; por ejemplo, a través de la definición de un sentido único de las aceras en las principales vías comerciales
+-	Generación de sentidos de circulación unidireccionales en lugares de ala concentración de personas, tales como supermercados y bancos.
 
-  - Al igual que los ciclistas, los peatones también se beneficiarían con una reducción de velocidad máxima para automovilistas (o incluso la correcta fiscalización de límites de velocidades ya existentes).
-
-  - Programaciones de semáforos, evitando priorización única en cuanto a beneficio motorizados
-
-  - ¿Apoyo temporal de Carabineros o Semáforos móviles?
-
-  - Sentidos de circulación unidireccionales en supermercados.
-    
+### Otras medidas
+-	Ampliar horarios y facilidades de parques y zonas verdes para la distracción y ejercicio físico
+-	Generación de espacios seguros para la infancia, considerando que no todos las niñas y niños tienen espacios cercanos de esparcimiento
+-	Separar espacios de ejercicio físico (trote) y viajes en bicicleta recreativa con respecto a los de caminata
+-	Ampliar las zonas con velocidad máxima a 30 km/h y aplicar medidas de tráfico calmado para la reducción de la velocidad de los vehículos. Así mismo, procurar una fiscalización más profunda de los límites de velocidad ya existentes
+-	Utilización de espacios de estacionamientos para peatones y otras actividades urbanas, tales como bares y restoranes
+-	De ninguna manera se debe aumentar el espacio dedicado a ciclistas a costa del espacio dedicado a peatones.
+-	Incentivos para programas comunitarios de caminata a la escuela
+-	Medidas de urbanismo táctico que promuevan la caminata, relacionadas al mejoramiento del entorno urbano y su seguridad
+-	Esquema participativo de las medidas, a través de plataformas en donde los ciudadanos puedan directamente proponer mejoras para su experiencia de caminata
+-	Generación de un esquema de evaluación continuo para que estas medidas temporales puedan ser potencialmente adoptadas como permanentes si son positivas
 
 
 ## Medidas para Viajes en Bicicleta
