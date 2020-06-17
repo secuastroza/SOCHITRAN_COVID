@@ -7,6 +7,7 @@
     + [Ejemplos prácticos](#ejemplos-pr-cticos)
     + [Herramientas para la Implementación](#herramientas-para-la-implementaci-n)
     
+ 
  ## ¿Por qué Promover Medidas para Peatones y Bicicletas?
 
 La caminata y la bicicleta son modos de transporte sustentables: no generan contaminación ambiental ni ruido, no necesitan fuentes energéticas externas, son económicos y generan baja congestión. Un aumento de la capacidad vial para peatones y usuarios de bicicleta puede habilitarse, de manera provisoria, con un costo muy bajo (solo conos y alguna demarcación y señalética). Esto puede servir como experiencias piloto, de tal modo que el en el mediano plazo se opte por intervenciones más costosas en los lugares que se han obtenido buenos resultados.
