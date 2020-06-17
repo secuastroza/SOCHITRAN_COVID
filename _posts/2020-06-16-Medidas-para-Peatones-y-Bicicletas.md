@@ -88,9 +88,13 @@ Su habilitación temporal, puede servir como experiencias piloto, de tal modo qu
 -	De no ser viable la habilitación de pistas temporales exclusivas para ciclistas, se recomienda limitar la velocidad de pista derecha a 30 Km/hr, para que puedan circular bicicletas, buses y autos. 
 
 -	Para ambas situaciones mencionadas en los dos párrafos anteriores, las restantes pistas deben respetar los rangos de velocidad establecidos en el REDEVU y OGUC, que son las siguientes:
-  	-	De Servicio: 30 a 40 Km/hr
-  	-	Colectoras: 40 a 50 Km/hr
-  	-	Troncales: si bien en el caso de estas vías se permite velocidad mayores, se recomienda que se adopte el valor de 50 Km/hr establecido por defecto en la Ley de Tránsito. 
+
+	- De Servicio: 30 a 40 Km/hr
+	
+ 	- Colectoras: 40 a 50 Km/hr
+	
+	- Troncales: si bien en el caso de estas vías se permite velocidad mayores, se recomienda que se adopte el valor de 50 Km/hr establecido por defecto en la Ley de Tránsito. 
+	
 	 (Según la Vialidad Estructurante definida en la Ordenanza y Planos de los  establezca en PRC de cada ciudad o comuna).
 
 
