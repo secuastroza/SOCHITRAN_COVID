@@ -8,19 +8,19 @@ Las recomendaciones a considerar para el sector transporte de carga urbano e int
 
 -	**Personal en oficinas, bodegas, almacenes, talleres, etc.**
 
-  -	Se trata de favorecer el trabajo desde casa reconociendo que la actividad de transporte se materializa entre puntos del territorio y en consecuencia se dificulta mantener los equipos de trabajo en casa.
-  -	Planificar la operación de la cadena de tal forma de minimizar la cantidad de trabajadores en las instalaciones y en terreno, manteniendo la seguridad y efectividad de la misma.
-  -	Diferenciar horarios de entrada y salida de las instalaciones para minimizar la generación de aglomeraciones.
-  -	Minimizar la rotación de trabajadores y la variabilidad de los equipos de trabajo.
-  -	Generar alternativas de estacionamiento para bicicletas y sendas peatonales para favorecer el uso de dichos modos por los trabajadores.
-  -	Limitar la cantidad de pasajeros en vehículos corporativos que transportan personal de operaciones.
+    -	Se trata de favorecer el trabajo desde casa reconociendo que la actividad de transporte se materializa entre puntos del territorio y en consecuencia se dificulta mantener los equipos de trabajo en casa.
+    -	Planificar la operación de la cadena de tal forma de minimizar la cantidad de trabajadores en las instalaciones y en terreno, manteniendo la seguridad y efectividad de la misma.
+    -	Diferenciar horarios de entrada y salida de las instalaciones para minimizar la generación de aglomeraciones.
+    -	Minimizar la rotación de trabajadores y la variabilidad de los equipos de trabajo.
+    -	Generar alternativas de estacionamiento para bicicletas y sendas peatonales para favorecer el uso de dichos modos por los trabajadores.
+    -	Limitar la cantidad de pasajeros en vehículos corporativos que transportan personal de operaciones.
   
 -	**Movimiento del personal en oficinas, bodegas, almacenes, talleres, patios, etc. en los puntos de origen o destino de los envíos**
 
-  -	Se debe minimizar la posibilidad de contagio por medio de la implementación de medidas que favorezcan el distanciamiento físico entre personas.
-  -	Planificar horarios de los desplazamientos entre distintos puntos para minimizar aglomeraciones en lugares específicos.
-  -	Preparar los cargamentos por adelantado, y transferir la carga sin interactuar con el conductor
-  -	En el caso que la carga/descarga/traslado de ítems requiera más de una persona, evaluar el uso de métodos mecánicos. Si esto no es posible, utilizar equipos de trabajadores fijos (sin rotación de integrantes)
+    -	Se debe minimizar la posibilidad de contagio por medio de la implementación de medidas que favorezcan el distanciamiento físico entre personas.
+    -	Planificar horarios de los desplazamientos entre distintos puntos para minimizar aglomeraciones en lugares específicos.
+    -	Preparar los cargamentos por adelantado, y transferir la carga sin interactuar con el conductor
+    -	En el caso que la carga/descarga/traslado de ítems requiera más de una persona, evaluar el uso de métodos mecánicos. Si esto no es posible, utilizar equipos de trabajadores fijos (sin rotación de integrantes)
   
 - **Distanciamiento social e higiene en vehículos**
 
@@ -44,10 +44,10 @@ Las recomendaciones a considerar para el sector transporte de carga urbano e int
 
 -	**Limpieza e higiene de los vehículos**
 
-  -	Limpieza de objetos y superficies de frecuente manipulación (manillas, manubrio, transmisión, tele-comandos, controles, herramientas, etc.). Asegurar apropiada disposición final de los elementos de limpieza y desechos.
-  -	Equipar la cabina con alcohol, líquidos sanitarios y elementos de seguridad personal. Incentivar higiene permanente de operadores antes y después de cada entrega.
-  -	Al final de cada turno limpiar cabina y retirar los todos los objetos personales que no son propios de la cabina del vehículo.
-  -	Centralizar el lavado de ropas de operadores (buzos, overol, guantes, etc)
+    -	Limpieza de objetos y superficies de frecuente manipulación (manillas, manubrio, transmisión, tele-comandos, controles, herramientas, etc.). Asegurar apropiada disposición final de los elementos de limpieza y desechos.
+    -	Equipar la cabina con alcohol, líquidos sanitarios y elementos de seguridad personal. Incentivar higiene permanente de operadores antes y después de cada entrega.
+    -	Al final de cada turno limpiar cabina y retirar los todos los objetos personales que no son propios de la cabina del vehículo.
+    -	Centralizar el lavado de ropas de operadores (buzos, overol, guantes, etc)
   
 - **Tripulaciones**
   -	En la medida de lo posible las tripulaciones se deben mantener fijas.
